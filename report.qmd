@@ -587,7 +587,7 @@ Curation is an E2E process defined by the context of the purposes and uses that 
 
 ***Curation*** involves documenting, for each statistical product, the **inputs** from which the product is derived, the **wrangling** used to transform the information into product, and the **statistical product** itself. Purposes and uses provide the context for each statistic and statistical product.
 
-This definition has evolved from numerous stakeholder discussions via listening sessions and discussions with Census Bureau staff. [@nusser2024curation; @faniel2019context; @nasem2022transparency].
+This definition has evolved from numerous stakeholder discussions via listening sessions and discussions with Census Bureau staff [@nusser2024curation; @faniel2019context; @nasem2022transparency].
 
 As use cases are curated, the CDE capabilities will evolve to quickly develop statistical products. These curated use cases are integral to developing an E2E curation process for the CDE.  
 
@@ -595,7 +595,7 @@ As use cases are curated, the CDE capabilities will evolve to quickly develop st
 
 The CDE development aims to curate a significant number of use cases that address social and economic issues that have the potential to define capabilities to be built in the CDE. Initially, they are seeking ideas for purposes and uses to define these use cases and statistical products.
 
-The skilled nursing facility use case presented in @sec-part-3 included code, data, and documentation to calculate the probability of workers getting to work during a weather event, resilience indicators at the county or sub-county level, alternative skilled nursing home deficiency measures, and other capabilities.
+The skilled nursing facility use case presented in @sec-part-3 included code, data, and documentation to calculate the probability of workers getting to work during a weather event, resilience indicators at the county or sub-county level, alternative skilled nursing home deficiency measures, and other capabilities. Another example is a use case that creates a household living budget, see [@lancaster2024creating].
 
 **Incorporating capabilities in the CDE**
 
